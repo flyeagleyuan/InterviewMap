@@ -1,7 +1,7 @@
 <img align="center" src='./InterviewMap.png' />
 
 <h1 align="center">
-  Interview Map
+  Interview Map is good
 </h1>
 
 <h4 align="center">This is a map that can help you prepare better for the next interview</h4>
